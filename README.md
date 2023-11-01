@@ -9,7 +9,7 @@ Truncate text after a certain amount of lines. Give the user the option to read 
 Add the minified library to your project:
 
 ```javascript
-<script src="https://cdn.jsdelivr.net/npm/easy-read-more-button@1.0.9/index.min.js" defer></script>
+<script src="https://cdn.jsdelivr.net/npm/easy-read-more-button@1.0.11/index.min.js" defer></script>
 ```
 
 ## Add data-attributes to elements that you would like to be truncated
