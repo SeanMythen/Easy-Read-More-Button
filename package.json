@@ -1,6 +1,6 @@
 {
   "name": "easy-read-more-button",
-  "version": "1.0.7",
+  "version": "1.0.6",
   "description": "Truncate text after a certain amount of lines. Give the user the option to read more if they would like.",
   "main": "index.js",
   "scripts": {
